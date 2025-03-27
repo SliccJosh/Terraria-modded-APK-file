@@ -25,6 +25,7 @@ chmod +x your_script.sh
 Run the script:
 sh
 ./your_script.sh
+
 Method 2: Using Chrome Extensions
 There are extensions available that provide terminal-like functionality. One such extension is "Secure Shell (SSH)".
 
@@ -46,5 +47,6 @@ Create a New Project:
 Create a new project on your chosen platform.
 Upload your .sh file to the project.
 Use the terminal provided by the platform to run your script.
+
 Summary
 While running .sh files directly on a Chromebook without enabling Linux or Developer Mode is restrictive, using Android apps like Termux or web-based solutions can provide a viable workaround. If you need more advanced capabilities, enabling Linux (Crostini) is recommended for a more seamless experience.
