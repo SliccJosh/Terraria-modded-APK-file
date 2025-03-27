@@ -1,3 +1,6 @@
+You may have to edit the .sh file after you download the apk file.
+
+
 Running a .sh file on a Chromebook without enabling Linux (Crostini) or Developer Mode is quite limited, as Chrome OS is designed to be a secure and restricted environment. However, there are still a few workarounds you can consider:
 
 Method 1: Using Android Apps (Termux)
